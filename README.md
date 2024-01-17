@@ -6,5 +6,8 @@ The following software requirements are necessary for the development of the Car
 4. Web Browser: Google Chrome or Mozilla Firefox.
 5. Text Editor: Visual Studio Code or any other text editor that supports PHP.
 
+Download the auth(6).zip file
+
+Login as an Admin User
 Username: Admin
 Password: Admin123$
